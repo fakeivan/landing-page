@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Recipes List](https://fakeivan.github.io/landing-page/)
+- [Landing Page](https://fakeivan.github.io/landing-page/)
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 ## About
